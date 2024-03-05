@@ -1,0 +1,26 @@
+.random-word {
+    text-align: center;
+}
+
+.interface {
+    display: flex;
+    justify-content: center;
+}
+.interface form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.interface input::placeholder {
+    text-align: center;
+}
+
+.user-guesses {
+    font-size: 1.5rem;
+}
+
+.correct {
+    text-align: center;
+}
+
